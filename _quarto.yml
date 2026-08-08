@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+    - pdf
+
+website:
+  title: "Loris Lombardi"
+  site-url: https://lorislombardi.jp
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - icon: github
+        href: https://github.com/lolonifuji
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lorislombardi
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:loris.lombardi.jp@gmail.com
+        aria-label: Email
+  page-footer:
+    center: "© 2026 Loris Lombardi · lorislombardi.jp"
+
+format:
+  html:
+    theme:
+      light: [flatly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    toc: false
+    lang: en

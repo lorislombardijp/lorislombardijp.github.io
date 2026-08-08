@@ -1,1 +1,6 @@
-﻿CLAUDE.md
+CLAUDE.md
+.quarto/
+_site/
+
+/.quarto/
+**/*.quarto_ipynb

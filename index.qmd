@@ -1,0 +1,24 @@
+---
+title: "Loris Lombardi"
+---
+
+PhD candidate, International and Advanced Japanese Studies, University of Tsukuba\
+Part-time Lecturer, University of Tsukuba
+
+[Email](mailto:loris.lombardi.jp@gmail.com) · [ORCID](https://orcid.org/0009-0002-4915-1750) · [GitHub](https://github.com/lolonifuji) · [LinkedIn](https://www.linkedin.com/in/lorislombardi)
+
+I am a PhD candidate in International and Advanced Japanese Studies at the
+University of Tsukuba. My research applies computational text analysis to
+Japanese online discourse, with a focus on toxicity, hate speech, and
+political communication.
+
+My dissertation is a computational study of hostility in Japanese anonymous
+news commentary, based on a complete corpus of 5channel's Newsplus board
+(2017–2026). It combines large-scale text analysis with human-in-the-loop
+annotation to measure toxicity and hate speech in Japanese. Alongside the
+dissertation, I work on public discourse around AI and emerging technologies
+in Japan, and on quantitative analysis of National Diet records.
+
+Research interests: computational political communication; Japanese online
+discourse; online hostility, toxicity and hate speech; framing and agenda
+setting; AI discourse in Japan; text-as-data methods for Japanese.

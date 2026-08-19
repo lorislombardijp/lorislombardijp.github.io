@@ -21,9 +21,15 @@ Across Anonymous, Journalistic, and State Discourse in Japan**\
 Loris Lombardi and Muneo Kaigo. *12th Annual Conference of The International
 Journal of Press/Politics*, National University of Singapore, November 2026.
 
+**Public Anxiety and Trust in AI Governance in Japan**\
+Loris Lombardi and Muneo Kaigo. *32nd AMIC Annual Conference* (Asian Media
+Information and Communication Centre), Manila, Philippines, November 2026.
+
 **Making Ambiguous Harm Legible: Human-in-the-Loop LLM Corpus Construction
 for Hate-Speech Frontiers in Japanese Digital Discourse**\
-Loris Lombardi. *JADH 2026*, Kyushu University, Fukuoka, Japan, September 2026.
+Loris Lombardi. *JADH 2026*, 15th Annual Conference of the Japanese
+Association for Digital Humanities, Kyushu University, Fukuoka, Japan,
+September 2026.
 
 **「平等」はいかに語られてきたか：国会会議録に基づく計量的分析 (How Has
 "Equality" Been Discussed? A Quantitative Analysis Based on National Diet
@@ -38,22 +44,25 @@ Journal of Press/Politics*, National University of Singapore, November 2025.
 
 **The Role of Toxicity in Chan-Style Communication: A Computational
 Text-as-Data Analysis of Japanese News Comments**\
-Loris Lombardi. *75th ICA Annual Conference* (Computational Methods), Denver,
-USA, June 2025.
+Loris Lombardi. *75th Annual Conference of the International Communication
+Association (ICA)*, Research Escalator (Computational Methods Division),
+Denver, USA, June 2025.
 
 **Onna Tataki: An Affect Analysis of Hate Speech on Japanese 2channel towards
 Female Politicians**\
-Loris Lombardi. *75th ICA Annual Conference* (Political Communication),
+Loris Lombardi. *75th Annual Conference of the International Communication
+Association (ICA)*, Research Escalator (Political Communication Division),
 Denver, USA, June 2025.
 
 **Donne in politica e odio online: analisi quantitativa delle emozioni su
 2channel giapponese**\
-Loris Lombardi. *Draine Conference*, Université Grenoble Alpes, Grenoble,
-France, May 2025.
+Loris Lombardi. *2nd International Draine Colloquium "Discours de haine et
+émotions : enjeux idéologiques et épistémologiques"*, LIDILEM, Université
+Grenoble Alpes, Grenoble, France, May 2025.
 
 **Detecting Trends of Online Toxicity in Japan — A Case Study on Talk.jp**\
-Loris Lombardi and Muneo Kaigo. *ICA Preconference "Digital Asia"*, Gold
-Coast, Australia, June 2024.
+Loris Lombardi and Muneo Kaigo. *ICA Preconference "Digital Asia"*,
+International Communication Association, Gold Coast, Australia, June 2024.
 
 ## Workshops & other talks
 
